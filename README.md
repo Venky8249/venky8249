@@ -1,10 +1,10 @@
 <h1 align="center"> I'm GUMMADUDALA VENKATESH</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/venkatesh-gummadidala-923419291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/venkatesh-gummadidala-923419291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"/>
   </a>
-  <a href="https://www.instagram.com/yourinstagram/" target="_blank">
+  <a href="https://www.instagram.com/g.venkatesh09?igsh=M3d2bHZyZm11bWRs" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/g.venkatesh09?igsh=M3d2bHZyZm11bWRs"/>
   </a>
 </p>
